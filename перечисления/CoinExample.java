@@ -1,5 +1,3 @@
-// Файл CoinExample.java
-
 enum Coin {
     PENNY(1),
     NICKEL(5),
